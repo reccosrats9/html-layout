@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 25px;
+}
+header{
+    width: 100%;
+    height:130px;
+    border: 3px solid black;
+    
+}
+.pblock{
+    height: 90px;
+    width: 30px;
+    background-color: blueviolet;
+    margin: 10px;
+    margin-top: 30px;
+    float:left;
+}
+.gblock{
+    height: 110px;
+    width: 260px;
+    background-color: green;
+    margin: 10px;
+    float:left;
+}
+.bblock{
+    height: 110px;
+    width: 110px;
+    background-color: cyan;
+    margin: 10px;
+    border-radius:50%;
+    float:left;
+}
+section{
+    width: 100%;
+    border: 4px dotted black;
+    margin-top: 20px;
+}
+.owrect{
+    height: 150px;
+    width: 90%;
+    margin:5%;
+    background-color: #e5dacc;
+    box-shadow: 7px 7px 7px #2d2d2c;
+}
+footer{
+    height: 30vh;
+    width: 40vw;
+    box-shadow: 3px 3px 7px gray;
+    text-align: center;
+    color: navy;
+    margin-left: 20vw;
+}
+.whiteblock{
+    padding-top:30%;
+}
