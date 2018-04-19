@@ -1,0 +1,26 @@
+header{
+   height: 16vh;
+   width: 100vw;
+    background-color:#3d4044;
+}
+#leftbar {
+    height:84vh;
+    width: 20vw;
+    background-color:#bcbfc4; 
+    float: left;
+}
+#rightbar {
+    height:84vh;
+    width: 20vw;
+    background-color:#bcbfc4;
+    float:right;
+}
+footer{
+    height:8vh;
+    width: 60vw;
+    margin-left:20vw;
+    margin-right:20vw;
+    position: absolute;
+    bottom: 0;
+    background-color: #222222;
+}
